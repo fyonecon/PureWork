@@ -12,3 +12,5 @@ PureHome, Replace Browser Homepage & Sharing Files Across Devices In Your LAN Ne
 👉 https://github.com/fyonecon/PureWork/releases/tag/v5.0.0
 
 🎉🎉🎉
+
+现已解决Mac与Win平台一致性问题。。。
