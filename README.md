@@ -6,6 +6,11 @@ PureHome, Replace Browser Homepage & Sharing Files Across Devices In Your LAN Ne
 ## Detail
 👉 http://purehome.cc
 
+## Show
+![Homepage](./en/home.png "Homepage主页")
+
+![LanFiles](./en/lan.png "LanFiles局域网")
+
 🎉🎉🎉
 
 ## Download
