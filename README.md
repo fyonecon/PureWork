@@ -1,3 +1,5 @@
+## ⚠️本项目只在Git-hub、bit-bucket上官更，其他网站上的都是盗版。
+
 ## PureWork（PureHome）
 PureHome，替代浏览器主页 & 局域网跨设备分享文件。 
 
